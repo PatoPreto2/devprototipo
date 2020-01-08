@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37bae88a-1981-472d-ad2c-1fa21ad00c3e" name="localhost" url="http://localhost/wf-recursos-avancados">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\wf-recursos-avancados" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
